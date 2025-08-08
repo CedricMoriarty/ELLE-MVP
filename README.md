@@ -18,7 +18,7 @@ One-Click download :[Elle](https://github.com/CedricMoriarty/ELLE-MVP/releases/d
 - Personalized skincare routines based on location and weather (e.g., “Use sunscreen, drink water” in sunny weather; “Use lip balm” in cold climates).
 - Detailed skin condition analysis from your images.
 - Progress tracking with comparisons to previous images.
-- Gamified routine tracking to keep users motivated.
+- Gamified routine tracking using points and streaks like Snapchat to keep users motivated.
 
 ---
 
