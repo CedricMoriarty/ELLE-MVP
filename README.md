@@ -34,7 +34,7 @@ One-Click download :[Elle](https://github.com/CedricMoriarty/ELLE-MVP/releases/d
 ## App Tabs
 
 - **Home:** See your daily skincare to-dos and progress.
-- **Community:** View a global leaderboard of routine streaks holders.
+- **Community:** View a global leaderboard of routine streak holders.
 - **Awards:** Track your personal achievements.
 - **Profile:** Manage your personal information and settings.
 
