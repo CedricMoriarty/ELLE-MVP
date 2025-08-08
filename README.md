@@ -1,4 +1,4 @@
-# Elle — AI powered Skincare Analysis
+# Elle - AI Powered Skincare Analysis and Skincare Assistant
 
 **Elle** aims to be the world’s first AI-powered skincare analysis app.
 
