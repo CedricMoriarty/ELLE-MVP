@@ -7,6 +7,7 @@
 ## Current Version: v0.0.1 (Prerelease)
 
 This prerelease version is available in the [Releases](https://github.com/CedricMoriarty/ELLE-MVP/releases) section (tag: `v0.0.1`) and provides a preconfigured output as a frontend-only MVP — no real image analysis yet.
+
 One-Click download :[Elle](https://github.com/CedricMoriarty/ELLE-MVP/releases/download/v0.0.1/elle-MVP.apk)
 ---
 
