@@ -6,7 +6,7 @@
 
 ## Current Version: v0.0.1 (Prerelease)
 
-This prerelease version is available in the [Releases](https://github.com/CedricMoriarty/ELLE-MVP/releases) section (tag: `v0.0.1`) and provides a preconfigured output as a frontend-only MVP — no real image analysis yet.
+This release version is available in the [Releases](https://github.com/CedricMoriarty/ELLE-MVP/releases) section (tag: `v0.0.1`) and provides a preconfigured output as a frontend-only MVP — no real image analysis yet.
 
 One-Click download :[Elle](https://github.com/CedricMoriarty/ELLE-MVP/releases/download/v0.0.1/ELLE-app-mvp.apk)
 ---
@@ -14,7 +14,7 @@ One-Click download :[Elle](https://github.com/CedricMoriarty/ELLE-MVP/releases/d
 ## What Elle Will Do (Final Vision)
 
 - On-device skin analysis using a TensorFlow Lite model.
-- Optional cloud-based LLM analysis.
+- Optional cloud-based LLM analysis with RAG integration for greater results.
 - Personalized skincare routines based on location and weather (e.g., “Use sunscreen, drink water” in sunny weather; “Use lip balm” in cold climates).
 - Detailed skin condition analysis from your images.
 - Progress tracking with comparisons to previous images.
@@ -35,7 +35,8 @@ One-Click download :[Elle](https://github.com/CedricMoriarty/ELLE-MVP/releases/d
 
 - **Home:** See your daily skincare to-dos and progress.
 - **Community:** View a global leaderboard of routine streak holders.
-- **Awards:** Track your personal achievements.
+- **Camera:** Mock skin analysis.
+- **Shop:** Order links for the recommended products(Space for exploring affliate options in the future).
 - **Profile:** Manage your personal information and settings.
 
 ---
